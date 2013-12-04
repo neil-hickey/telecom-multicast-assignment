@@ -15,6 +15,7 @@ import java.util.Date;
  */
 public class MulticastServer {
 	
+	
 	public static final String MCAST_ADDR = "230.0.0.1";	// Hardcoded address for the multicast group
 	public static final int MCAST_PORT = 9013; 				// Hardcoded port number for the multicast group
 	
